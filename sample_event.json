@@ -1,0 +1,14 @@
+{
+  "event_id": "sample-0001",
+  "sensor_id": "SENSOR-DEMO",
+  "measured_at": "2026-11-24T11:50:00+09:00",
+  "scale": "log10",
+  "features": {
+    "median_rms": -1.98676449,
+    "median_power_4_40": -5.31969971,
+    "median_power_40_100": -4.06753618,
+    "median_power_100_300": -5.47761616,
+    "median_power_300_800": -5.75031717,
+    "median_power_800_1600": -5.73881828
+  }
+}
